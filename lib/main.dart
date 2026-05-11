@@ -167,17 +167,17 @@ class _InputProfilePageState extends State<InputProfilePage>
                         buildProfileCard(
                             Icons.person, "Nama Lengkap", "M Akbar Ramadhan"),
                         buildProfileCard(Icons.cake, "Tempat/Tgl Lahir",
-                            "Tangerang, 01 Januari 2005"),
+                            "Jambi, 19 Oktober 2005"),
                         buildProfileCard(
                             Icons.wc, "Jenis Kelamin", "Laki-laki"),
                         buildProfileCard(Icons.home, "Alamat",
-                            "Pasarkemis, Tangerang"),
+                            "Pondok Aren, Tangerang Selatan"),
                         buildProfileCard(
                             Icons.favorite, "Agama", "Islam"),
                         buildProfileCard(Icons.school, "Pendidikan",
                             "S1 Teknik Informatika"),
                         buildProfileCard(
-                            Icons.phone, "No. HP/WA", "08xxxxxxxxxx"),
+                            Icons.phone, "No. HP/WA", "083196390884"),
                         buildProfileCard(
                             Icons.email, "Email", "akbar@email.com"),
                       ],
@@ -392,15 +392,15 @@ class ProfileDetailPage extends StatelessWidget {
                     child: Column(
                       children: [
                         buildDetailCard(Icons.cake, "Tempat/Tgl Lahir",
-                            "Tangerang, 01 Januari 2005"),
+                            "Jambi, 19 Oktober 2005"),
                         buildDetailCard(
                             Icons.wc, "Jenis Kelamin", "Laki-laki"),
                         buildDetailCard(Icons.home, "Alamat",
-                            "Pasarkemis, Tangerang"),
+                            "Pondok Aren, Tangerang Selatan"),
                         buildDetailCard(
                             Icons.favorite, "Agama", "Islam"),
                         buildDetailCard(
-                            Icons.phone, "No. HP/WA", "08xxxxxxxxxx"),
+                            Icons.phone, "No. HP/WA", "083196390884"),
                         buildDetailCard(
                             Icons.email, "Email", "akbar@email.com"),
                       ],
