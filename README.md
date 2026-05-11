@@ -3,11 +3,12 @@
 ---
 ## 👨‍💻 Developer
 
-**Nama:** M Akbar Ramadhan
+**Nama:** M Akbar Ramadhan Ola Sili
 
 **Program Studi:** Teknik Informatika
 
 **Project:** Tugas Praktikum Flutter - Aplikasi Profil Mahasiswa
+
 ---
 
 ## 📌 Deskripsi Proyek
